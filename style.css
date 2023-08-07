@@ -1,0 +1,9 @@
+#myCanvas{
+	border-width: 10px;
+	border-style: ridge;
+	background-color: #ffffff;
+}
+body{
+    text-align: center;
+    cursor: pointer;
+} 
